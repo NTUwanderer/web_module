@@ -1,4 +1,4 @@
-# react-with-express-starter
+# web module
 
 > This is a project starter for web seminar course homework.
 
